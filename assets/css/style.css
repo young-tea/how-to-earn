@@ -124,6 +124,12 @@ body {
 	border-color: #A9A9A9;
 }
 
+.imgm {
+	width: 75%;
+	height: 75%;
+	margin-top: 5%;
+}
+
 .content {
 	margin: 2%;
 	padding: 2%;
