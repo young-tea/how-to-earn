@@ -143,7 +143,7 @@ body {
 
 ::-webkit-scrollbar{
 	width: 12px;
-	background-color: transparent;
+	background: transparent;
 }
 
 ::-webkit-scrollbar-thumb{
@@ -154,6 +154,25 @@ body {
 }
 
 ::-webkit-scrollbar-thumb:hover{
+	background: #a19d9b;
+	border: solid 1px;
+	border-radius: 6px;
+	border-color: #A9A9A9;
+}
+
+::-moz-scrollbar{
+	width: 12px;
+	background: transparent;
+}
+
+::-moz-scrollbar-thumb{
+	background: #b8b4b2;
+	border: solid 1px;
+	border-radius: 6px;
+	border-color: #A9A9A9;
+}
+
+::-moz-scrollbar-thumb:hover{
 	background: #a19d9b;
 	border: solid 1px;
 	border-radius: 6px;
