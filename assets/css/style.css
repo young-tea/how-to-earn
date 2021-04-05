@@ -158,8 +158,8 @@ body {
 /* scrollbar */
 
 ::-webkit-scrollbar{
-	width: 12px;
-	background: transparent;
+	width: 10px;
+	background: #e6e4e2;
 }
 
 ::-webkit-scrollbar-thumb{
@@ -178,7 +178,7 @@ body {
 
 ::-moz-scrollbar{
 	width: 12px;
-	background: transparent;
+	background: #e6e4e2;
 }
 
 ::-moz-scrollbar-thumb{
