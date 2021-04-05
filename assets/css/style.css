@@ -136,3 +136,26 @@ body {
 .drp {
 	background-color: #222;
 }
+
+
+
+/* scrollbar */
+
+::-webkit-scrollbar{
+	width: 12px;
+	background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb{
+	background: #b8b4b2;
+	border: solid 1px;
+	border-radius: 6px;
+	border-color: #A9A9A9;
+}
+
+::-webkit-scrollbar-thumb:hover{
+	background: #a19d9b;
+	border: solid 1px;
+	border-radius: 6px;
+	border-color: #A9A9A9;
+}
